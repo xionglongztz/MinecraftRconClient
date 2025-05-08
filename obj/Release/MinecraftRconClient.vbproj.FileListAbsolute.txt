@@ -1,0 +1,12 @@
+E:\Projects\VisualStudio2022\MinecraftRconClient\bin\Release\MinecraftRconClient.exe.config
+E:\Projects\VisualStudio2022\MinecraftRconClient\bin\Release\MinecraftRconClient.exe
+E:\Projects\VisualStudio2022\MinecraftRconClient\bin\Release\MinecraftRconClient.pdb
+E:\Projects\VisualStudio2022\MinecraftRconClient\bin\Release\MinecraftRconClient.xml
+E:\Projects\VisualStudio2022\MinecraftRconClient\obj\Release\MinecraftRconClient.vbproj.AssemblyReference.cache
+E:\Projects\VisualStudio2022\MinecraftRconClient\obj\Release\MinecraftRconClient.frmMain.resources
+E:\Projects\VisualStudio2022\MinecraftRconClient\obj\Release\MinecraftRconClient.Resources.resources
+E:\Projects\VisualStudio2022\MinecraftRconClient\obj\Release\MinecraftRconClient.vbproj.GenerateResource.cache
+E:\Projects\VisualStudio2022\MinecraftRconClient\obj\Release\MinecraftRconClient.vbproj.CoreCompileInputs.cache
+E:\Projects\VisualStudio2022\MinecraftRconClient\obj\Release\MinecraftRconClient.exe
+E:\Projects\VisualStudio2022\MinecraftRconClient\obj\Release\MinecraftRconClient.xml
+E:\Projects\VisualStudio2022\MinecraftRconClient\obj\Release\MinecraftRconClient.pdb
